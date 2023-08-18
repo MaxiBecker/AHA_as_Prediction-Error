@@ -1,5 +1,5 @@
 # AHA_as_Prediction-Error
-This is the behavioral data for the manuscript: Surprise! - Dimensions of the AHA! experience correspond differently to a meta-cognitive prediction error (Becker, Wang, Cabeza, 2023)
+This is the behavioral data & analysis R script for the manuscript: Surprise! - Dimensions of the AHA! experience correspond differently to a meta-cognitive prediction error (Becker, Wang, Cabeza, 2023)
 
 
 Abstract: 
